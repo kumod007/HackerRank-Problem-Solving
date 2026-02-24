@@ -12,6 +12,10 @@
 	
 </p>
 
+
+
+
+
 ## Description
 This repository contains my solutions to various SQL challenges on HackerRank, organized by categories and difficulty levels. 
 Each solution includes a brief explanation of the problem and my approach to solving it executed on MySQL environment.
