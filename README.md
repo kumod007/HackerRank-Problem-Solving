@@ -2,7 +2,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/kumod007/All-HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kumod007/All-HackerRank-SQL-Challenges-Solutions?style=flat)
 
-<p align="center">  
+<p align="center">      
 	<br>
 	<a      href="https://www.hackerrank.com/Kumod_Sharma">
         <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
