@@ -14,7 +14,7 @@
 
 
 
-
+                     
 
 ## Description
 This repository contains my solutions to various SQL challenges on HackerRank, organized by categories and difficulty levels. 
